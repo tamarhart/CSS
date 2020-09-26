@@ -1,0 +1,34 @@
+﻿div {
+    width:1050px;
+    margin: 0 auto;
+}
+#ms
+{
+    position:relative;
+    width:720px;
+    background-color:aqua;
+    border-left:solid 2px white;
+    border-right: solid 2px white;
+}
+section { 
+    background-color: aqua;
+    width: 135px;
+   height:1500px;
+   float:right;
+}
+span {
+    padding: 100px;
+    padding-bottom:40px;
+    background-color: white;
+    border: solid 2px white;
+    position:absolute;
+    top:50px;
+    left:25px;
+}
+#sp{
+    padding-bottom:300px;
+   margin-left:480px;
+    background-color:white;
+    top:800px;
+
+}

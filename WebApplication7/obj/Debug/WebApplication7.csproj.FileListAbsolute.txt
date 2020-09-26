@@ -1,0 +1,111 @@
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\WebApplication7.dll.config
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\WebApplication7.dll
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\WebApplication7.pdb
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\roslyn\csc.exe
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\roslyn\csc.exe.config
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\roslyn\csc.rsp
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\roslyn\csi.exe
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\roslyn\csi.exe.config
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\roslyn\csi.rsp
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\roslyn\Microsoft.CodeAnalysis.dll
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\roslyn\Microsoft.CSharp.Core.targets
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\roslyn\Microsoft.Managed.Core.targets
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\roslyn\Microsoft.VisualBasic.Core.targets
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\roslyn\System.AppContext.dll
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\roslyn\System.Collections.Immutable.dll
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\roslyn\System.Console.dll
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\roslyn\System.Diagnostics.StackTrace.dll
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\roslyn\System.IO.Compression.dll
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\roslyn\System.IO.FileSystem.dll
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\roslyn\System.IO.FileSystem.Primitives.dll
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\roslyn\System.IO.Pipes.AccessControl.dll
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\roslyn\System.IO.Pipes.dll
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\roslyn\System.Reflection.Metadata.dll
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\roslyn\System.Security.AccessControl.dll
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\roslyn\System.Security.Claims.dll
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\roslyn\System.Security.Cryptography.Encoding.dll
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\roslyn\System.Security.Cryptography.Primitives.dll
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\roslyn\System.Security.Principal.Windows.dll
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\roslyn\System.Text.Encoding.CodePages.dll
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\roslyn\System.ValueTuple.dll
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\roslyn\System.Xml.ReaderWriter.dll
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\roslyn\System.Xml.XmlDocument.dll
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\roslyn\System.Xml.XPath.dll
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\roslyn\System.Xml.XPath.XDocument.dll
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\roslyn\vbc.exe
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\roslyn\vbc.exe.config
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\roslyn\vbc.rsp
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\roslyn\VBCSCompiler.exe
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\roslyn\VBCSCompiler.exe.config
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\obj\Debug\WebApplication7.csprojAssemblyReference.cache
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\obj\Debug\WebApplication7.csproj.CoreCompileInputs.cache
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\obj\Debug\WebApplication7.csproj.CopyComplete
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\obj\Debug\WebApplication7.dll
+U:\אאכיתה ב תשפAA\תמר הרטמן\web\WebApplication7\WebApplication7\obj\Debug\WebApplication7.pdb
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\WebApplication7.dll.config
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\WebApplication7.dll
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\WebApplication7.pdb
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\roslyn\csc.exe
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\roslyn\csc.exe.config
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\roslyn\csc.rsp
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\roslyn\csi.exe
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\roslyn\csi.exe.config
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\roslyn\csi.rsp
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\roslyn\Microsoft.Managed.Core.targets
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\roslyn\System.AppContext.dll
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\roslyn\System.Collections.Immutable.dll
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\roslyn\System.Console.dll
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\roslyn\System.IO.Compression.dll
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\roslyn\System.IO.FileSystem.dll
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\roslyn\System.IO.Pipes.dll
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\roslyn\System.Reflection.Metadata.dll
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\roslyn\System.Security.AccessControl.dll
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\roslyn\System.Security.Claims.dll
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\roslyn\System.Security.Principal.Windows.dll
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\roslyn\System.ValueTuple.dll
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\roslyn\System.Xml.XmlDocument.dll
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\roslyn\System.Xml.XPath.dll
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\roslyn\vbc.exe
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\roslyn\vbc.exe.config
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\roslyn\vbc.rsp
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\roslyn\VBCSCompiler.exe
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\roslyn\VBCSCompiler.exe.config
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\obj\Debug\WebApplication7.csprojAssemblyReference.cache
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\obj\Debug\WebApplication7.csproj.CopyComplete
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\obj\Debug\WebApplication7.dll
+E:\‏‏תיקיה חדשה (5)\WebApplication7\WebApplication7\obj\Debug\WebApplication7.pdb
